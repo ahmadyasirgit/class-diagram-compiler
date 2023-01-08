@@ -4,7 +4,7 @@ export default function LandingPage() {
 
     return (
         <div>
-            Hello Ahmad
+            landing Page
         </div>
     )
 }

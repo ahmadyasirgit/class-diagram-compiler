@@ -22,7 +22,7 @@ export default function Login() {
             }
             else
             {
-                alert("Invalid Login")
+                alert("Invalid Credentials!")
             }
             
     }
